@@ -12,7 +12,8 @@ header_path = Path("assets/header.png")  # Place a banner image here
 col_img, col_title = st.columns([1, 3])
 with col_img:
     if header_path.exists():
-        st.image(str(header_path), use_container_width=True)
+        # st.image(str(header_path), use_container_width=True)
+        st.image(str(header_path), use_column_width=True)
 with col_title:
     st.title(" Diabetes Health Dashboard")
     st.write("Explore the dataset, visualize key insights, and run a personalized diabetes prediction using the trained model.")
