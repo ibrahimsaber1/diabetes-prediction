@@ -4,7 +4,7 @@ import numpy as np
 import joblib
 import plotly.graph_objects as go
 
-st.set_page_config(page_title="Prediction", page_icon="🧪", layout="wide")
+st.set_page_config(page_title="Prediction", page_icon="", layout="wide")
 st.title("🧪 Diabetes Prediction")
 
 @st.cache_resource
