@@ -1,4 +1,11 @@
 ﻿# Diabetes Health Analytics Dashboard
+## Demo
+
+
+https://github.com/user-attachments/assets/47a805f5-076b-4b0c-a5c3-309a7e341990
+
+
+
 
 An end-to-end, production-ready Streamlit application for analyzing diabetes health indicators and predicting diagnosed_diabetes using a trained XGBoost pipeline. The app provides:
 
