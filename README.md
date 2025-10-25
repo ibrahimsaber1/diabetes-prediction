@@ -52,7 +52,7 @@ models/xgb.pkl
 ```
 - Place the dataset CSV at:
 ```
-data/diabetes_health_indicators.csv
+data/diabetes_dataset.csv
 ```
 
 3) Run
@@ -130,3 +130,4 @@ See requirements.txt:
 - Built with Streamlit and Plotly for fast, interactive analytics
 - XGBoost pipeline for robust, high-performing tabular classification
 - Inspired by standard diabetes risk indicators and clinical thresholds
+
